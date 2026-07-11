@@ -32,7 +32,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("com.programacion.Main")
+    mainClass.set("com.team.visor3d.Main")
 }
 
 tasks.test {

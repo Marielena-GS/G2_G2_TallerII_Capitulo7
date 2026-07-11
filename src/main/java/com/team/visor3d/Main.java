@@ -1,7 +1,7 @@
-package com.programacion;
+package com.team.visor3d;
 
 import com.formdev.flatlaf.FlatLightLaf;
-import com.programacion.gui.MainFrame;
+import com.team.visor3d.gui.MainFrame;
 
 import javax.swing.SwingUtilities;
 

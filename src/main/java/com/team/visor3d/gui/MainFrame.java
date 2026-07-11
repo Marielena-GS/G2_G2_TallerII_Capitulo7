@@ -1,4 +1,4 @@
-package com.programacion.gui;
+package com.team.visor3d.gui;
 
 import javax.swing.JFrame;
 import java.awt.BorderLayout;
